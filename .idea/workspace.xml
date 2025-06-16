@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d418440-b6ff-4ab8-abfa-01f8b9a4e513" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/components/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/portfolio.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/portfolio.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="4d418440-b6ff-4ab8-abfa-01f8b9a4e513" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750066995841</updated>
-      <workItem from="1750066997678" duration="9960000" />
+      <workItem from="1750066997678" duration="10763000" />
     </task>
     <servers />
   </component>
