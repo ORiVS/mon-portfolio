@@ -68,6 +68,28 @@ const projects = [
         links: []
     },
     {
+        slug: "social-code-network",
+        title: "Social-Code-Network – Plateforme sociale pour développeurs",
+        description: "Application MERN-like pour développeurs avec authentification sécurisée, vérification d’email, documentation Swagger et CI/CD automatisée avec GitHub Actions.",
+        image: "/images/socialcode.png",
+        stack: ["Node.js", "Express", "Prisma", "PostgreSQL", "Swagger", "Docker", "CI/CD"],
+        content: `Social-Code-Network est un projet collaboratif visant à connecter les développeurs autour d’un espace de partage technique :
+
+- Authentification complète (login, register, reset password)
+- Vérification d’email
+- Documentation Swagger
+- Utilisation de Prisma pour la base de données
+- CI/CD avec GitHub Actions
+- Dockerisation pour déploiement
+- Architecture modulaire avec bonnes pratiques backend
+
+Projet en évolution, prévu pour intégrer un frontend social complet (post, follow, chat).`,
+        link: [
+            { label: "Code source GitHub", url: "https://github.com/Medmat0/Social-Code-Network" }
+        ]
+    },
+
+    {
         slug: "snakewars",
         title: "SnakeWars – Reinforcement Learning Game",
         description: "Jeu Snake avec IA par apprentissge par renforcement, développé en Python et présenté lors d'un projet académique à l’ESGI.",
