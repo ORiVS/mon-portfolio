@@ -81,11 +81,12 @@ const projects = [
 - Utilisation de Prisma pour la base de données
 - CI/CD avec GitHub Actions
 - Dockerisation pour déploiement
-- Architecture modulaire avec bonnes pratiques backend
-
-Projet en évolution, prévu pour intégrer un frontend social complet (post, follow, chat).`,
+- Architecture modulaire avec bonnes pratiques backend`,
         link: [
-            { label: "Code source GitHub", url: "https://github.com/Medmat0/Social-Code-Network" }
+            {
+                label: "GitHub",
+                url: "https://github.com/Medmat0/Social-Code-Network"
+            }
         ]
     },
 
